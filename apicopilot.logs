@@ -1,0 +1,26 @@
+2023-08-01T13:03:47.971Z: 
+
+--------------------------------------
+Extension started at 2023-08-01T13:03:47.971Z
+
+2023-08-01T13:03:47.973Z: Loading .env file.
+2023-08-01T13:03:47.972Z: Trying to get workspace folder.
+2023-08-01T13:03:47.974Z: Server endpoint: https://fastfastapi.fly.dev
+2023-08-01T13:03:48.473Z: User input is empty.
+2023-08-01T13:04:02.944Z: 
+
+--------------------------------------
+Extension started at 2023-08-01T13:04:02.944Z
+
+2023-08-01T13:04:02.944Z: Trying to get workspace folder.
+2023-08-01T13:04:02.944Z: Loading .env file.
+2023-08-01T13:04:02.945Z: Server endpoint: https://fastfastapi.fly.dev
+2023-08-01T13:04:12.522Z: User input is non empty: i want to make a hotel booking system
+2023-08-01T13:04:12.523Z: The code will be generated here: c:\Users\dnova\.gitRepositories\TesteAngular
+2023-08-01T13:04:12.523Z: Fetching data...
+2023-08-01T13:04:12.523Z: Creating loading panel.
+2023-08-01T13:04:12.525Z: Starting loading.
+2023-08-01T13:04:12.525Z: Calling /update_openapi_spec_nostream
+2023-08-01T13:04:14.837Z: Hiding the loading panel.
+2023-08-01T13:04:15.021Z: Error: AxiosError: Request failed with status code 500
+Please send us the error log on discord.gg/NSsa7UbNGm
